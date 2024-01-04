@@ -1,6 +1,7 @@
 {
   "name": "my_proj",
   "version": "0.1.0",
+  "homepage": "https://your-username.github.io/repo-name/",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
